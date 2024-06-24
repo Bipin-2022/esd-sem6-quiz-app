@@ -42,7 +42,6 @@ export const Navbarnew = () => {
       </Link>
 
       <div className="w-2/5 ml-14 ">
-        <img className="w-96 h-24" src="./MERN2.png" alt="" />
         {/* <div className="flex h-10 py-2 mt-1 bg-gray-200">
           <div className="w-3/4 ">
             <input
